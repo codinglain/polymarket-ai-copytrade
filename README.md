@@ -1,7 +1,7 @@
 # 🚀 Polymarket AI CopyTrade
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/38547278/522351830-79715c7a-de2c-4033-81e6-b2288963ec9b.png" width="600" />
+  <img src="https://files.catbox.moe/dvedxk.png" width="600" />
 </p>
 
 <p align="center">

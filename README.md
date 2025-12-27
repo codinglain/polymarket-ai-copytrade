@@ -68,7 +68,7 @@ It removes emotional decision-making and manual tracking by combining **copy tra
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/polymarket-ai-copytrade.git
+git clone https://github.com/codinglain/polymarket-ai-copytrade
 cd polymarket-ai-copytrade
 pip install -r requirements.txt
 ```
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ```bash
-python main.py --market all --mode copy
+python main.py
 ```
 
 ---

